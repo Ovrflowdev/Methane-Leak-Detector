@@ -25,3 +25,30 @@ I just put the components, but ima cook the connections rn or tomorrow
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE1LCJwdXIiOiJibG9iX2lkIn19--f85cf578f7eeb87572d4140edb9578dfdfe8c54b/image.png)
   
 
+## 10/5/2025 - Finished designing schematics !  
+
+Hiiii, I just finished the schematics on EasyEDA !
+I just gotta check all connections to make sure there's no short-circuits or stuff like this :p
+
+On the following picture, we got
+1. USB-C port
+2. TP4056
+3. DW01A
+4. FS8205
+5. ON/OFF Switch
+6. JST Battery connector
+7. AMS1117
+8. ESP32
+9. ESP32 RESET Button
+10. ESP32 BOOT Button
+11. MQ-4 (Methane sensor)
+12. DHT22 (Temperature and humidity sensor)
+13. GPS NEO-M9N (GPS module)
+14. LoRa SX1276 (LoRa emmitor for data transmission)
+15. Green power LED
+16. Yellow alert LED 
+17. Charging LED
+
+![Schematic_Methane-Leak-Detector_2025-10-05.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTg2LCJwdXIiOiJibG9iX2lkIn19--33f3c039bc6a93a5e3481c8c910f8ad25dda21c9/Schematic_Methane-Leak-Detector_2025-10-05.png)
+  
+
